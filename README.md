@@ -1,2 +1,2 @@
-# Eat-Good
-## *Welcome to this repo*
+# Never Beg
+## *This is a mobile apllication to collect beggar cencus in india*
